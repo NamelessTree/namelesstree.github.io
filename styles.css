@@ -4,3 +4,8 @@ body, html {
     background-color: black;
     height: 100%;
 }
+#h1_index {
+  background-color: antiquewhite;
+  text-align: center;
+  border-color: black;
+}
