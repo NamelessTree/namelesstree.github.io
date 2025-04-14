@@ -1,0 +1,6 @@
+body, html {
+    margin: 1%;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    height: 100%;
+}
