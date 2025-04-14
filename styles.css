@@ -14,7 +14,18 @@ body, html {
   color: antiquewhite;
 }
 
-#b_index {
-    background-color: gray;
-    color: antiquewhite;
+#b_index:hover {
+    cursor:pointer;
+    border-color:gray;
+    background-color:black;
+    color:antiquewhite;
+}
+
+#b_index: {
+  text-align: center;
+  margin:5%;
+  border-color:antiquewhite;
+  background-color:gray;
+  color:black;
+  font-family: 'Courier New', Courier, monospace;
 }
