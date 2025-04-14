@@ -5,7 +5,8 @@ body, html {
     height: 100%;
 }
 #h1_index {
-  background-color: gray;
+  background-color: black;
+  color: antiquewhite;
   text-align: center;
   border-color: black;
 }
@@ -15,5 +16,5 @@ body, html {
 
 #b_index {
     background-color: gray;
-    border-color: antiquewhite;
+    color: antiquewhite;
 }
