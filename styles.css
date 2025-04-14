@@ -22,10 +22,10 @@ body, html {
 }
 
 #b_index: {
+  color:black;
   text-align: center;
-  margin:5%;
+  margin:8%;
   border-color:antiquewhite;
   background-color:gray;
-  color:black;
   font-family: 'Courier New', Courier, monospace;
 }
