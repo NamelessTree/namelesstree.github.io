@@ -10,5 +10,10 @@ body, html {
   border-color: black;
 }
 #h2_index {
-  color: antiquewhite:
+  color: antiquewhite;
+}
+
+#b_index {
+    background-color: gray;
+    border-color: antiquewhite;
 }
