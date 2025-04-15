@@ -29,3 +29,6 @@ body, html {
   background-color:gray;
   font-family: 'Courier New', Courier, monospace;
 }
+#div_index: {
+    margin:5%;
+}
