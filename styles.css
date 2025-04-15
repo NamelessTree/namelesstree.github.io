@@ -29,6 +29,12 @@ body, html {
   background-color:gray;
   font-family: 'Courier New', Courier, monospace;
 }
+#footer_index: {
+    color:antiquewhite;
+    background-color:dark gray;
+    font-family: 'Courier new', Courier, monospace;
+}
+
 #div_index: {
     margin:10px;
 }
