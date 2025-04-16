@@ -28,11 +28,10 @@ body, html {
   margin: 8%;
   border-color: antiquewhite;
   background-color: gray;
-  font-family: 'Courier New', Courier, monospace;
 }
 #footer_index: {
     color: antiquewhite;
-    background-color: dark gray;
+    background-color: darkgray;
 }
 
 #div_index: {
