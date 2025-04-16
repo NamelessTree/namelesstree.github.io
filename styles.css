@@ -31,6 +31,7 @@ body, html {
   font-family: 'Courier New', Courier, monospace;
 }
 #footer_index: {
+    border-color:antiquewhite;
     color:antiquewhite;
     background-color:dark gray;
     font-family: 'Courier New', Courier, monospace;
