@@ -29,6 +29,22 @@ body, html {
   border-color: antiquewhite;
   background-color: gray;
 }
+
+#b_index2:hover {
+    cursor: pointer;
+    border-color: gray;
+    background-color: orange;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#b_index2: {
+  color:black;
+  text-align: center;
+  margin: 8%;
+  border-color: yellow;
+  background-color: yellow;
+}
 #footer_index: {
     color: antiquewhite;
     background-color: darkgray;
