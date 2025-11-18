@@ -28,6 +28,7 @@ body, html {
   margin: 8%;
   border-color: antiquewhite;
   background-color: gray;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 #b_index2:hover {
@@ -44,6 +45,7 @@ body, html {
   margin: 8%;
   border-color: orange;
   background-color: safety yellow;
+  font-family: 'Courier New', Courier, monospace;
 }
 #footer_index: {
     color: antiquewhite;
