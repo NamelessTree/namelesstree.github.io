@@ -19,7 +19,6 @@ body, html {
     border-color: gray;
     background-color: black;
     color: antiquewhite;
-    font-family: 'Courier New', Courier, monospace;
 }
 
 #b_index: {
@@ -36,7 +35,6 @@ body, html {
     border-color: gray;
     background-color: emerald;
     color: black;
-    font-family: 'Courier New', Courier, monospace;
 }
 
 #b_index2: {
