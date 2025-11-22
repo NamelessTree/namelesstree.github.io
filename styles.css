@@ -43,8 +43,8 @@ body, html {
   color:black;
   text-align: center;
   margin: 8%;
-  border-color: orange;
-  background-color: safety yellow;
+  border-color: yellow;
+  background-color: orange;
   font-family: 'Courier New', Courier, monospace;
 }
 #footer_index: {
